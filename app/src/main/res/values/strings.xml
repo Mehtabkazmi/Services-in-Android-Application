@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Services</string>
+    <string-array name="listOption">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+    </string-array>
+<string-array name="listValues">
+    <item>d</item>
+    <item>e</item>
+    <item>f</item>
+</string-array>
+</resources>
